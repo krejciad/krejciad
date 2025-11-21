@@ -45,3 +45,5 @@
 </div>
 
 ###
+
+![krejciad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=krejciad&theme=onedark&hide_border=true)
