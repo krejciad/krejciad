@@ -29,7 +29,7 @@
 </div>
 
 ## Hello, I'm Adam
-### I'm from Czechia and I enjoy working close to the metal - low-level programming, systems stuff, and anything that lets me understand how things really work under the hood.
+### I'm from Czechia and I enjoy working close to the metal - low-level programming, microcontrollers stuff, and anything that lets me understand how things really work under the hood.
 
 I'm studying industry automation and experimenting with projects that mix software with hardware.
 Also a proud Linux user who loves tinkering, breaking things, and learning from it.
