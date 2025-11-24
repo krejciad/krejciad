@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">
+<div align="begin">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
@@ -33,3 +33,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo"  />
 </div>
+
+### Hello, I'm Adam
+# I am hobby developer from Czechia, and proud linux user. I'm studying on secondary school on branch "Industry Automation".
