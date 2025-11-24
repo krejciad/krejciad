@@ -34,5 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo"  />
 </div>
 
-### Hello, I'm Adam
-# I am hobby developer from Czechia, and proud linux user. I'm studying on secondary school on branch "Industry Automation".
+## Hello, I'm Adam
+### I'm from Czechia and I enjoy working close to the metal — low-level programming, systems stuff, and anything that lets me understand how things really work under the hood.
+I'm studying industry automation and experimenting with projects that mix software with hardware.
+Also a proud Linux user who loves tinkering, breaking things, and learning from it.
