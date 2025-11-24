@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Adam%20Krej%C4%8D%C3%AD&fontSize=50&fontColor=FFFFFF&fontAlign=20&fontAlignY=60&stroke=-&animation=twinkling&desc=Hobby%20Developer%20from%20Czechia&descSize=20&descAlign=20&descAlignY=95&textBg=false&theme=onedark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Adam%20Krej%C4%8D%C3%AD&fontSize=50&fontColor=FFFFFF&fontAlign=20&fontAlignY=60&stroke=-&animation=twinkling&desc=Hobby%20Developer%20from%20Czech Republic&descSize=10&descAlign=20&descAlignY=95&textBg=false&theme=onedark"  />
 </div>
 
 ###
@@ -33,7 +33,3 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo"  />
 </div>
-
-###
-
-![krejciad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=krejciad&theme=onedark&hide_border=true)
