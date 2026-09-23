@@ -32,6 +32,6 @@ I'm studying industry automation and experimenting with projects that mix softwa
   <img
     height="165"
     alt="Contribution streak"
-    src="https://streak-stats.demolab.com?user=krejciad&hide_border=true&background=0D1117&ring=78B8FF&fire=78B8FF&currStreakLabel=78B8FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"
+    src="https://streak-stats.demolab.com?user=krejciad&hide_border=true&background=00000000&ring=78B8FF&fire=78B8FF&currStreakLabel=78B8FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"
   />
 </div>
